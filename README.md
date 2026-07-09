@@ -4,8 +4,6 @@ This is a Hello World program written in Python that displays an ASCII art banne
 
 The purpose of this project is to go beyond a simple `print("Hello, World!")` and demonstrate basic Python concepts in a fun and practical way — including conditional logic with ternary operators and string formatting with `strftime`.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/HI9JJaZXmaU)
 
 # Development Environment
